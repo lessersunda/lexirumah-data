@@ -1,42 +1,42 @@
 ID,Lect_ID,Concept_ID,Form_according_to_Source,Comment,Source
-6072,bima1247,rattan,,"/miro/ found in ABVD, but not found in Ismail (1985)",ismail1985bima
-6096,bima1247,cooked_corn,,"/kareɗo, kawendo/ = ""porridge""",ismail1985bima
-6564,bima1247,to_flow,,"/taŋgiru/ From ABVD, not Ismail (1985)",ismail1985bima
-6565,bima1247,to_flow,,"/rai/ From ABVD, not Ismail (1985)",ismail1985bima
-6796,bima1247,rice_grains,,"/wuri/ = ""bulir""",ismail1985bima
-6804,bima1247,oven,,"/riha/ means ""kitchen; dapur"" but is probably cognate with other languages",ismail1985bima
-11969,ende1246,axe,,"/taka/ = ""hoe"", means ""axe"" in many nearby languages",aokinakagawa1993ende
-11991,ende1246,bird,,"/ʔana koɹo, ʔana mbopo, ʔana nake/ = kinds of birds (""ana"" means ""child"")",aokinakagawa1993ende
-12022,ende1246,clan,,"/kunu/ is ""a group"", possible used for clans as well",aokinakagawa1993ende
-12036,ende1246,conjunctivitis,,"/kaɓi roɓo/ = ""unable to open eyes due to wax""",aokinakagawa1993ende
-12096,ende1246,firewood,,probably /kadʒu ʔapi/ (wood + fire),aokinakagawa1993ende
-12155,ende1246,honey,,"/ʔero, ʔero ʔani/ = ""bee""; honey is probably /ʔae ʔani/ or /ʔae ero/ (water + bee)",aokinakagawa1993ende
-12245,ende1246,nostril,,probably /ɹia ʔiru/ (hole + nose),aokinakagawa1993ende
-12393,ende1246,to_choose,,"/piɹi/ = ""to pick up""",aokinakagawa1993ende
-20194,keoo1238,burden_stick,,"/ɗoi/ is verb ""to carry something with stick on shoulder""",474568
-20370,keoo1238,marriage,,"/fai aki/ ""to marry"", /nika/ ""to marry (loan)""",474568
-20545,keoo1238,to_bury,,"/late/ is ""grave, tomb""",474568
-20627,keoo1238,to_own,,"/ŋala/ is ""pemilik, owner""",474568
-21289,komo1261,cooked_corn,,"/taɓaʔ/ = ""porridge""",112149
-21449,komo1261,marriage,,"/tʃampu, nika/ = ""to marry; kawin""",112149
-21639,komo1261,to_dance,jogéq,112149,
-21756,komo1261,to_trade,,"/toke/ = ""pedagang""",112149
-33972,lioo1240,cuscus,,No word for it,fieldwork_lio_wordlist
-33991,lioo1240,earring,,No word for it,fieldwork_lio_wordlist
-34052,lioo1240,fowl,,No word found,fieldwork_lio_wordlist
-34075,lioo1240,gum_tree,,No word for it,fieldwork_lio_wordlist
-34100,lioo1240,ice,,No word for it,fieldwork_lio_wordlist
-34104,lioo1240,initiation_ceremony,,No word for it,fieldwork_lio_wordlist
-34172,lioo1240,necklace,,No word for it,fieldwork_lio_wordlist
-34237,lioo1240,sago,,No word for it,fieldwork_lio_wordlist
-34278,lioo1240,snow,,No word for it,fieldwork_lio_wordlist
-34288,lioo1240,starfish,,No word for it,fieldwork_lio_wordlist
-34312,lioo1240,that,,"Word not found; there is no partner of proximal /ina/ but the 3sg pronoun /kai, ke/ can be used as demonstrative",fieldwork_lio_wordlist
-34393,lioo1240,to_freeze,,No word for it,fieldwork_lio_wordlist
-34468,lioo1240,to_surrender,,No word found,fieldwork_lio_wordlist
-34543,lioo1240,window,,No word for it,fieldwork_lio_wordlist
-36511,mang1405,sorcerer,,"""magic, magical arts"" = /mbəko/",478432
-37357,nage1237,to_own,,"; consultant gave /ˈlatu/ = ""there is""",fieldwork_nage_wordlist
+6072,bima1247,rattan,,"/miro/ found in ABVD, but not found in Ismail (1985)",ismail85
+6096,bima1247,cooked_corn,,"/kareɗo, kawendo/ = ""porridge""",ismail85
+6564,bima1247,to_flow,,"/taŋgiru/ From ABVD, not Ismail (1985)",ismail85
+6565,bima1247,to_flow,,"/rai/ From ABVD, not Ismail (1985)",ismail85
+6796,bima1247,rice_grains,,"/wuri/ = ""bulir""",ismail85
+6804,bima1247,oven,,"/riha/ means ""kitchen; dapur"" but is probably cognate with other languages",ismail85
+11969,ende1246,axe,,"/taka/ = ""hoe"", means ""axe"" in many nearby languages",aokinakagawa93
+11991,ende1246,bird,,"/ʔana koɹo, ʔana mbopo, ʔana nake/ = kinds of birds (""ana"" means ""child"")",aokinakagawa93
+12022,ende1246,clan,,"/kunu/ is ""a group"", possible used for clans as well",aokinakagawa93
+12036,ende1246,conjunctivitis,,"/kaɓi roɓo/ = ""unable to open eyes due to wax""",aokinakagawa93
+12096,ende1246,firewood,,probably /kadʒu ʔapi/ (wood + fire),aokinakagawa93
+12155,ende1246,honey,,"/ʔero, ʔero ʔani/ = ""bee""; honey is probably /ʔae ʔani/ or /ʔae ero/ (water + bee)",aokinakagawa93
+12245,ende1246,nostril,,probably /ɹia ʔiru/ (hole + nose),aokinakagawa93
+12393,ende1246,to_choose,,"/piɹi/ = ""to pick up""",aokinakagawa93
+20194,keoo1238,burden_stick,,"/ɗoi/ is verb ""to carry something with stick on shoulder""",baird02
+20370,keoo1238,marriage,,"/fai aki/ ""to marry"", /nika/ ""to marry (loan)""",baird02
+20545,keoo1238,to_bury,,"/late/ is ""grave, tomb""",baird02
+20627,keoo1238,to_own,,"/ŋala/ is ""pemilik, owner""",baird02
+21289,komo1261,cooked_corn,,"/taɓaʔ/ = ""porridge""",verheijen82
+21449,komo1261,marriage,,"/tʃampu, nika/ = ""to marry; kawin""",verheijen82
+21639,komo1261,to_dance,jogéq,,verheijen82
+21756,komo1261,to_trade,,"/toke/ = ""pedagang""",verheijen82
+33972,lioo1240,cuscus,,No word for it,elias17
+33991,lioo1240,earring,,No word for it,elias17
+34052,lioo1240,fowl,,No word found,elias17
+34075,lioo1240,gum_tree,,No word for it,elias17
+34100,lioo1240,ice,,No word for it,elias17
+34104,lioo1240,initiation_ceremony,,No word for it,elias17
+34172,lioo1240,necklace,,No word for it,elias17
+34237,lioo1240,sago,,No word for it,elias17
+34278,lioo1240,snow,,No word for it,elias17
+34288,lioo1240,starfish,,No word for it,elias17
+34312,lioo1240,that,,"Word not found; there is no partner of proximal /ina/ but the 3sg pronoun /kai, ke/ can be used as demonstrative",elias17
+34393,lioo1240,to_freeze,,No word for it,elias17
+34468,lioo1240,to_surrender,,No word found,elias17
+34543,lioo1240,window,,No word for it,elias17
+36511,mang1405,sorcerer,,"""magic, magical arts"" = /mbəko/",verheijen67
+37357,nage1237,to_own,,"; consultant gave /ˈlatu/ = ""there is""",elias17
 37925,ngad1267,civet_cat,,"/betu/ is ""large rat""",96970
 38043,ngad1267,knee,,/xəko/ = back of knee,96970
 38079,ngad1267,mothers_brother,,"/pame, mame/ = uncle",96970
