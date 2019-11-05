@@ -40,36 +40,36 @@ ID,Lect_ID,Concept_ID,Form_according_to_Source,Comment,Source
 37925,ngad1267,civet_cat,,"/betu/ is ""large rat""",arndt61
 38043,ngad1267,knee,,/xəko/ = back of knee,arndt61
 38079,ngad1267,mothers_brother,,"/pame, mame/ = uncle",arndt61
-38541,ngao1245-oja,grains,,; consultant gave /ka/ 'rice',fieldwork_ngao_oja_wordlist
-39099,ngao1245-watum,grains,,; consultant gave /ka/ 'rice',fieldwork_ngao_watumite_wordlist
-39168,ngao1245-watum,meeting_house,,"; consultant offered /ˌsaʔo ˈmeɹe ˌtenda ˈɮeʋa/ which means ""house + large + platform + tall"" and is a poetic way of referring to the main traditional house",fieldwork_ngao_watumite_wordlist
-39306,ngao1245-watum,teeth,,ˈuja,fieldwork_ngao_watumite_wordlist
-39862,p-aust1307-abvd,tree,*(kayu),Source Aone?; ,datasets_ABVD
-41440,palu1252,fruit,,"/wua/ = ""betel nut""",144429
-41591,palu1252,burden_stick,,"/leba/ = ""to carry over one shoulder with a stick""",144429
-41600,palu1252,fat,,"/mosa/ = ""fat, gemuk""",144429
-41607,palu1252,wound,,"/kela/ = ""scar""",144429
-41663,palu1252,rack_above_hearth,,"/soɓe kuwun/ = ""para-para perahu; sitting platform in a canoe""",144429
-41726,palu1252,milk,,"/tusu/ = ""breast""",144429
-41754,palu1252,light_not_dark,,"possible /tʃa/ as in /wula ndoʔa tʃa/ (moon + shine + bright?) ""full moon""",144429
-43710,rong1269,bed,,"one instance of <boslak>: <mbenu maju oné boslak> ""There's a lot of bugs in the bed."". <lundu> is a ""sitting/sleeping bench"", <bhili nandé> is a ""bedroom""",474483
-43748,rong1269,burden_stick,,"<dhoi> is ""to carry on the shoulder with a carrying pole""",474483
-43771,rong1269,clay,,"<raké> is ""sticky"", possibly <tana raké>?",474483
-43782,rong1269,cooked_corn,,"<tabha> = rice porridge, <ndetu> ""to crush fried or roasted corn, <ndetu jawa> ""crush corn"", <péna> ""crush corn into small piécés"", <péna jawa> ""crush corn""",474483
-43864,rong1269,fishing_hook,,"<su'a> is ""fishing rod"", as in example: <kedhu ko su'a kazhi zhalé oné> ""The hook was then taken out.""",474483
-43876,rong1269,flying_fox,,"<nighi> is ""large bat"", <ripo> is ""small bat""",474483
-43905,rong1269,grains,,"<kisé> is ""seed""; classifier for grains, small objects",474483
-43929,rong1269,heart,,"found listed as <wua mboka> but that is ""lungs""; <até> means ""liver"" but is the metaphorical equivalent of the heart",474483
-44000,rong1269,marriage,,"<kawin> is ""to marry"", <ngaja lo> is ""wedding""",474483
-44002,rong1269,milk,,"<susu> is ""breast""",474483
-44003,rong1269,millet,,"<lépa> is ""sorghum""",474483
-44005,rong1269,monitor_lizard,,"<ghora> is ""big lizard""",474483
-44039,rong1269,old_people,,old (of people),474483
-44157,rong1269,sugar_palm,,"possibly <moké>? see ""sago""",474483
-44170,rong1269,testicles,,"<telo> is listed as ""penis"", maybe means ""egg/testicle"" in fact",474483
-44418,rong1269,to_surrender,,"but in example: <lanu né'é ndatu a mai sasu wéké wua> ""Lanu and Ndatu are coming to surrender (deliver their soul)""",474483
-46916,soaa1237,fog,,"same as ""cloud""",fieldwork_soa_wordlist
-47001,soaa1237,mosque,,don't have it,fieldwork_soa_wordlist
-47024,soaa1237,old_worn_house,,"consultant gave /ˌsaʔo ˈmeze/ for ""old house"" but I think this means ""rumah adat, traditional house""",fieldwork_soa_wordlist
-47076,soaa1237,seed,,also /ʋua/?,fieldwork_soa_wordlist
-56263,sarr1247,to_learn,,tom me um mai = we give each other information ,klamer2018sar
+38541,ngao1245-oja,grains,,consultant gave /ka/ 'rice',elias17
+39099,ngao1245-watum,grains,,consultant gave /ka/ 'rice',elias17
+39168,ngao1245-watum,meeting_house,,"; consultant offered /ˌsaʔo ˈmeɹe ˌtenda ˈɮeʋa/ which means ""house + large + platform + tall"" and is a poetic way of referring to the main traditional house",elias17
+39306,ngao1245-watum,teeth,,ˈuja,elias17
+39862,p-aust1307-abvd,tree,*(kayu),Source Aone?,greenhill08
+41440,palu1252,fruit,,"/wua/ = ""betel nut""",donohue03
+41591,palu1252,burden_stick,,"/leba/ = ""to carry over one shoulder with a stick""",donohue03
+41600,palu1252,fat,,"/mosa/ = ""fat, gemuk""",donohue03
+41607,palu1252,wound,,"/kela/ = ""scar""",donohue03
+41663,palu1252,rack_above_hearth,,"/soɓe kuwun/ = ""para-para perahu; sitting platform in a canoe""",donohue03
+41726,palu1252,milk,,"/tusu/ = ""breast""",donohue03
+41754,palu1252,light_not_dark,,"possible /tʃa/ as in /wula ndoʔa tʃa/ (moon + shine + bright?) ""full moon""",donohue03
+43710,rong1269,bed,,"one instance of <boslak>: <mbenu maju oné boslak> ""There's a lot of bugs in the bed."". <lundu> is a ""sitting/sleeping bench"", <bhili nandé> is a ""bedroom""",arka07
+43748,rong1269,burden_stick,,"<dhoi> is ""to carry on the shoulder with a carrying pole""",arka07
+43771,rong1269,clay,,"<raké> is ""sticky"", possibly <tana raké>?",arka07
+43782,rong1269,cooked_corn,,"<tabha> = rice porridge, <ndetu> ""to crush fried or roasted corn, <ndetu jawa> ""crush corn"", <péna> ""crush corn into small piécés"", <péna jawa> ""crush corn""",arka07
+43864,rong1269,fishing_hook,,"<su'a> is ""fishing rod"", as in example: <kedhu ko su'a kazhi zhalé oné> ""The hook was then taken out.""",arka07
+43876,rong1269,flying_fox,,"<nighi> is ""large bat"", <ripo> is ""small bat""",arka07
+43905,rong1269,grains,,"<kisé> is ""seed""; classifier for grains, small objects",arka07
+43929,rong1269,heart,,"found listed as <wua mboka> but that is ""lungs""; <até> means ""liver"" but is the metaphorical equivalent of the heart",arka07
+44000,rong1269,marriage,,"<kawin> is ""to marry"", <ngaja lo> is ""wedding""",arka07
+44002,rong1269,milk,,"<susu> is ""breast""",arka07
+44003,rong1269,millet,,"<lépa> is ""sorghum""",arka07
+44005,rong1269,monitor_lizard,,"<ghora> is ""big lizard""",arka07
+44039,rong1269,old_people,,old (of people),arka07
+44157,rong1269,sugar_palm,,"possibly <moké>? see ""sago""",arka07
+44170,rong1269,testicles,,"<telo> is listed as ""penis"", maybe means ""egg/testicle"" in fact",arka07
+44418,rong1269,to_surrender,,"but in example: <lanu né'é ndatu a mai sasu wéké wua> ""Lanu and Ndatu are coming to surrender (deliver their soul)""",arka07
+46916,soaa1237,fog,,"same as ""cloud""",elias17
+47001,soaa1237,mosque,,don't have it,elias17
+47024,soaa1237,old_worn_house,,"consultant gave /ˌsaʔo ˈmeze/ for ""old house"" but I think this means ""rumah adat, traditional house""",elias17
+47076,soaa1237,seed,,also /ʋua/?,elias17
+56263,sarr1247,to_learn,,tom me um mai = we give each other information ,klamer18-sar
