@@ -14,7 +14,12 @@ import pycldf
 import pyclts
 from segments import Tokenizer, Profile
 
-bipa = pyclts.CLTS().bipa
+try:
+    bipa = pyclts.CLTS().bipa
+except AttributeError:
+    # You might have an old CLTS
+    bipa = pyclts.TranscriptionSystem("bipa")
+
 sounds = list(bipa.sounds)
 sounds.extend([
     "ᵐb", "ᶮd͡ʒ", "ⁿd͡ʒ", "ᵑg", "ᵑk", "ᵐp", "ⁿs", "ᶮt͡ʃ", "ⁿt͡s", "ᵐb̥", "ⁿd̥", "ᵑgʷ", "ⁿd͡zʲ",
