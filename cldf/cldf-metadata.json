@@ -12,11 +12,11 @@
         "Marian Klamer"
     ],
     "dc:description": "A lexical database of Lesser Sunda languages",
-    "dc:identifier": "lexirumah-2.2.9",
+    "dc:identifier": "lexirumah-3.0.0",
     "dc:license": "http://creativecommons.org/licenses/by/4.0/",
     "dc:publisher": "Leiden University Centre for Linguistics",
     "dc:source": "sources.bib",
-    "dc:title": "LexiRumah 2.2.9",
+    "dc:title": "LexiRumah 3.0.0",
     "special:contact": "m.a.f.klamer@hum.leidenuniv.nl",
     "special:domain": "lexirumah.model-ling.eu",
     "special:license_icon": "cc-by.png",

@@ -18,6 +18,7 @@ for form in lr["FormTable"].iterdicts():
         new_id = "{:s}-{:s}-{:d}".format(form[language_column],
                                          form[concept_column],
                                          synonym)
+    new_formids.add(new_id)
     old_to_new_formid[form[id_column]] = new_id
     form[id_column] = new_id
     all_forms.append(form)
