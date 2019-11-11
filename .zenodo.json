@@ -34,10 +34,15 @@
     "access_right": "open",
     "upload_type": "dataset",
     "related_identifiers": [
-      {
-        "scheme": "doi",
-        "identifier": "10.5281/zenodo.1164782",
-        "relation": "isVersionOf"
-      }
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.1164782",
+            "relation": "isPreviousVersionOf"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://w3id.org/unileiden/lexirumah/",
+            "relation": "isOrignialFormOf"
+        }
     ]
 }
