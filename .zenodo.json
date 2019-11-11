@@ -37,7 +37,7 @@
         {
             "scheme": "url",
             "identifier": "https://w3id.org/unileiden/lexirumah/",
-            "relation": "isOriginalFormOf"
+            "relation": "isSourceOf"
         }
     ]
 }
