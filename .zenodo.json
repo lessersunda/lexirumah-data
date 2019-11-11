@@ -3,15 +3,9 @@
     "license": "CC-BY-4.0",
     "notes": "Funding: Reconstructing the past through languages of the present: the Lesser Sunda Islands Netherlands Organisation for Scientific Research (The Hague)\nGRANT NUMBER: 277-70-012\nURL: https://www.nwo.nl/en/research-and-results/research-projects/i/91/22391.html",
     "communities": [
-      {
-        "id": "cldf-datasets"
-      },
-      {
-        "id": "clld"
-      },
-      {
-        "id": "lexibank"
-      }
+        "cldf-datasets",
+        "clld",
+        "lexibank"
     ],
     "keywords": [
       "Lexical Database",
@@ -24,17 +18,17 @@
       {
         "orcid": "0000-0003-2209-0652",
         "affiliation": "Leiden University Center for Linguistics",
-        "name": "Owen Edwards"
+        "name": "Edwards, Owen"
       },
       {
         "orcid": "0000-0002-8155-9089",
         "affiliation": "Leiden University Center for Linguistics",
-        "name": "Gereon Kaiping"
+        "name": "Kaiping, Gereon A."
       },
       {
         "orcid": "0000-0002-2905-7161",
         "affiliation": "Leiden University Center for Linguistics",
-        "name": "Marian Klamer"
+        "name": "Klamer, Marian"
       }
     ],
     "access_right": "open",
