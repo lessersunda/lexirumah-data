@@ -20,6 +20,14 @@
     "dc:publisher": "Leiden University Centre for Linguistics",
     "dc:source": "sources.bib",
     "dc:title": "LexiRumah 3.0.0",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0",
+            "dc:title": "Concepticon"
+        }
+    ],
     "special:contact": "m.a.f.klamer@hum.leidenuniv.nl",
     "special:domain": "lexirumah.model-ling.eu",
     "special:license_icon": "cc-by.png",
