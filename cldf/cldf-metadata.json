@@ -11,6 +11,9 @@
         "Gereon A. Kaiping",
         "Marian Klamer"
     ],
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Klamer-2018-607"
+    ],
     "dc:description": "A lexical database of Lesser Sunda languages",
     "dc:identifier": "lexirumah-3.0.0",
     "dc:license": "http://creativecommons.org/licenses/by/4.0/",
