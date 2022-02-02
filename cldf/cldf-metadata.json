@@ -11,15 +11,17 @@
         "Gereon A. Kaiping",
         "Marian Klamer"
     ],
+    "dc:bibliographicCitation": "Kaiping, Gereon A., Owen Edwards, and Marian Klamer (eds.). 2019. LexiRumah 3.0.1. Leiden: Leiden University Centre for Linguistics. (Available online at https://lexirumah.model-ling.eu/)",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Klamer-2018-607"
     ],
     "dc:description": "A lexical database of Lesser Sunda languages",
-    "dc:identifier": "lexirumah-3.0.0",
+    "dc:identifier": "https://lexirumah.model-ling.eu",
+    "dcat:accessURL": "https://gituhb.com/lessersunda/lexirumah-data",
     "dc:license": "http://creativecommons.org/licenses/by/4.0/",
     "dc:publisher": "Leiden University Centre for Linguistics",
     "dc:source": "sources.bib",
-    "dc:title": "LexiRumah 3.0.0",
+    "dc:title": "LexiRumah 3.0.1",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
@@ -34,6 +36,8 @@
     "special:license_name": "Creative Commons Attribution 4.0 International License",
     "special:publisher_place": "Leiden, The Netherlands",
     "special:publisher_url": "http://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics",
+    "rdf:id": "lexirumah",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
